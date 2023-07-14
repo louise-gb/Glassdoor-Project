@@ -2,19 +2,18 @@
 Data Cleaning &amp; Transformation project
 
 
-NTRODUCTION: 
+## INTRODUCTION: 
 
 Ce projet se concentre sur l'exploration, le nettoyage et la transformation des données des offres d'emploi dans le domaine de la data science disponible sur Glassdoor.
 
 
 
 
-L'objectif ?
+## Les objectifs ?
 
 - Améliorer la qualité des données en éliminant les valeur aberrantes
 - Traiter les valeurs manquantes 
 - Transformer les valeurs brutes en un format plus adapté à l'analyse ultérieure.
-
 
 
 
@@ -23,7 +22,7 @@ En effectuant ces étapes de nettoyage et de transformation, nous visons à four
 
 
 
-DESCRIPTION DES DONNÉES: 
+## SOURCE DES DONNÉES: 
 
 Le jeu de données est un fichier CSV extrait du site Kaggle:
 
